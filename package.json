@@ -137,7 +137,7 @@
     "eslint": "^8.51.0",
     "eslint-config-prettier": "^9.0.0",
     "ethers": "^5.7.2",
-    "hardhat": "^2.18.1",
+    "hardhat": "^2.20.0",
     "hardhat-abi-exporter": "^2.10.1",
     "hardhat-contract-sizer": "^2.10.0",
     "hardhat-gas-reporter": "^1.0.9",
